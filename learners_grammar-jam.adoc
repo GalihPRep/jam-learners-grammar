@@ -71,14 +71,14 @@ The Jamaican alphabet consists of 25 letters, including one letter -- *c* -- whi
 
 |A |a |ie |/a/ |
 |B |b |bii |/b/ |
-|Ch |ch |chii |/tʃ/ |
+|Ch |ch |chii |/ʧ/ |
 |D |d |dii |/d/ |
 |E |e |hii |/e/ |
 |F |f |hef |/f/ |
 |G |g |jii |/g/ |
 |H |h |iech |/h/ |the pronunciation (or absence) of *h* depends on dialect
 |I |i |hai |/i/ |
-|J |j |jie |/dʒ/ |
+|J |j |jie |/ʤ/ |
 |K |k |kie |/k/ |
 |L |l |hel |/l/ |
 |M |m |hem |/m/ |
@@ -205,7 +205,7 @@ The long vowel *ii* is pronounced /iː/, as the "ee" in _beet_
 * *tii* /tiː/, _tea_
 * *miin* /miːn/, _mean_
 * *siin* /siːn/, _agreed, OK_ (affirmative particle)
-* *tiich* /tiːtʃ/, _teach_
+* *tiich* /tiːʧ/, _teach_
 * *biini* /biːni/, _tiny_
 * *paliis* /paliːs/, _police_
 
@@ -231,9 +231,9 @@ The long vowel *uu* is pronounced /uː/, as the "oo" in _moon_
 * *ruut* /ɹuːt/, _root_
 * *hatityuud* /hatɪtjuːd/, _attitude_
 * *nyuu* /njuː/, _new_
-* *chruu* /tʃɹuː/, _through_
-* *chuun* /tʃuːn/, _tune_
-* *chuut* /tʃuːt/, _truth_
+* *chruu* /ʧɹuː/, _through_
+* *chuun* /ʧuːn/, _tune_
+* *chuut* /ʧuːt/, _truth_
 
 ==== Diphthongs
 
@@ -246,7 +246,7 @@ There are four diphthongs in Jamaican
 The diphthong *ai* is pronounced /aɪ/, as the "igh" in _sigh_ or the "y" in _try_
 
 * *baik* /baɪk/, _bike_
-* *chrai* /tʃɹaɪ/, _try_
+* *chrai* /ʧɹaɪ/, _try_
 * *rait* /ɹaɪt/, _write_
 * *taim* /taɪm/, _time_
 * *fain* /faɪn/, _find_
@@ -275,7 +275,7 @@ The diphthong *ie* is pronounced /ɪɛ/, as the "ye" in _yes_
 * *bied* /bɪɛd/, _bathe / beard_
 * *biefies* /bɪɛfɪɛs/, _bare-faced / blatant_
 * *biev* /bɪɛv/, _to behave_
-* *chriet* /tʃɹɪɛt/, _straight_
+* *chriet* /ʧɹɪɛt/, _straight_
 * *exkiep* /ekskɪɛp/, _to escape_
 * *fiet* /fɪɛt/, _fate / faith_
 * *iel* /ɪɛl/, _to greet_
@@ -294,7 +294,7 @@ The diphthong *ie* is pronounced /ɪɛ/, as the "ye" in _yes_
 * *Mobie* /mɔbɪɛ/, _Mobay_
 * *jiel* /jɪɛl/, _jail_
 * *biebi* /bɪɛbi/, _baby_
-* *jinarieshan* /dʒinaɹɪɛʃan/, _relatives_
+* *jinarieshan* /ʤinaɹɪɛʃan/, _relatives_
 * *nieshan* /nɪɛʃan/, _nation_
 * *miebi* /mɪɛbi/, _maybe_
 * *fies* /fɪɛs/, _face_
@@ -306,7 +306,7 @@ The diphthong *ie* is pronounced /ɪɛ/, as the "ye" in _yes_
 * *siem* /sɪɛm/, _same_
 * *shiem* /ʃɪɛm/, _shame_
 * *spies* /spɪɛs/, _space_
-* *chienj* /tʃɪɛndʒ/, _change_
+* *chienj* /ʧɪɛnʤ/, _change_
 * *Mieri* /mɪɛɹi/, _Mary_
 * *tiebl* /tɪɛbl/, _table_
 * *wie* /wɪɛ/, _way_
@@ -355,7 +355,7 @@ The diphthong *uo* is pronounced /uɔ/, as the "wa" in _want_
 * *puot* /puɔt/, _sports_
 * *suos* /suɔs/, _source_
 * *papishuo* /papiʃuɔ/, _foolishness_ (exclamation of surprise)
-* *juok* /dʒuɔk/, _joke_
+* *juok* /ʤuɔk/, _joke_
 * *stuon* /stuɔn/, _stone_
 
 NOTE: This diphthong is sometimes written as *ua* with the corresponding pronunciation /ʊɐ/
@@ -488,13 +488,13 @@ The consonant *d* is pronounced /d/, as the "d" in _door_
 * *dopi* /dopɪ/, _ghost_
 * *daag* /daːg/, _dog_
 
-The consonant *ch* is pronounced /tʃ/, as the "ch" in _chair_
+The consonant *ch* is pronounced /ʧ/, as the "ch" in _chair_
 
-* *choch* /tʃotʃ/, _church_
-* *chruu* /tʃɹuː/, _through_
-* *chuun* /tʃuːn/, _tune_
-* *chuut* /tʃuːt/, _truth_
-* *chrikifai* /tʃɹikifai/, _cunning_
+* *choch* /ʧoʧ/, _church_
+* *chruu* /ʧɹuː/, _through_
+* *chuun* /ʧuːn/, _tune_
+* *chuut* /ʧuːt/, _truth_
+* *chrikifai* /ʧɹikifai/, _cunning_
 
 The consonant *f* is pronounced /f/, as the "f" in _four_
 
@@ -514,20 +514,20 @@ The consonant *h* can be silent, or depending on the speaker, dialect, and empha
 * *hen* /hen/ or /en/, _hen_
 * *hAirish* /haɪɹiʃ/ or /aɪɹiʃ/, _Irish_
 
-The consonant *j* is pronounced /dʒ/, as the "j" in _jump_
+The consonant *j* is pronounced /ʤ/, as the "j" in _jump_
 
-* *mieja* /mɪɛdʒa/, _measure_
-* *joj* /dʒodʒ/, _judge_
-* *vijan* /vɪdʒan/, _vision_
+* *mieja* /mɪɛʤa/, _measure_
+* *joj* /ʤoʤ/, _judge_
+* *vijan* /vɪʤan/, _vision_
 
 The consonant *k* is pronounced /k/, as the "c" in _cut_
 
 * *kait* /kaɪt/, _kite_
-* *kalij* /kalɪdʒ/, _college_
+* *kalij* /kalɪʤ/, _college_
 * *kisaada* /kisaːda/, _cassava_
 * *klaat* /klaːt/, _cloth_
-* *kolcha* /koltʃa/, _culture_
-* *konchri* /kontʃɹi/, _country_
+* *kolcha* /kolʧa/, _culture_
+* *konchri* /konʧɹi/, _country_
 * *kom* /kom/, _come_
 * *kot* /kot/, _cut_
 
@@ -539,7 +539,7 @@ The consonant *l* is pronounced /l/, as the "l" in _left_
 
 The consonant *m* is pronounced /m/, as the "m" in _map_
 
-* *magij* /magɪdʒ/, _maggot_
+* *magij* /magɪʤ/, _maggot_
 * *man* /man/, _man_
 
 The consonant *n* is pronounced /n/, as the "n" in _new_
@@ -555,7 +555,7 @@ The consonant *ng* is pronounced /ŋ/, as the "ng" in _wing_
 
 The consonant *p* is pronounced /p/, as the "p" in _pear_
 
-* *picha* /pitʃa/, _picture_
+* *picha* /piʧa/, _picture_
 * *piil* /piːl/, _peel_
 * *pudn* /pudn/, _pudding_
 * *pus* /pus/, _cat_
@@ -580,7 +580,7 @@ The consonant *sh* is pronounced /ʃ/, as the "sh" in _shoe_
 * *shaat* /ʃaːt/, _short_
 * *shuga* /ʃuga/, _sugar_
 * *shuolda* /ʃuolda/, _shoulder_
-* *shaachij* /ʃaːtʃɪdʒ/, _shortage_
+* *shaachij* /ʃaːʧɪʤ/, _shortage_
 * *disepshos* /dɪsepʃos/, _deceitful_
 * *sofarieshan* /sofarɪɛʃan/, _suffering_
 
@@ -628,7 +628,7 @@ The consonant *zh* is only used in loanwords; it is pronounced /ʒ/, as the "s" 
 * *chrezha* /ʧɹeʒa/, _treasure_
 * *divizhan* /diviʒan/, _division_
 
-NOTE: In the acrolect, *zh* may be replaced by *j* /dʒ/, for example: *pleja*, *vorjan*, *chreja*, *divijan*, etc.
+NOTE: In the acrolect, *zh* may be replaced by *j* /ʤ/, for example: *pleja*, *vorjan*, *chreja*, *divijan*, etc.
 
 ==== Overview of Consonant Sounds
 
@@ -637,11 +637,11 @@ NOTE: In the acrolect, *zh* may be replaced by *j* /dʒ/, for example: *pleja*, 
 
 |*b* |/b/ |*bami* |as the "b" in _book_
 |*d* |/d/ |*dopi* |as the "d" in _door_
-|*ch* |/tʃ/ |*choch* |as the "ch" in _chair_
+|*ch* |/ʧ/ |*choch* |as the "ch" in _chair_
 |*f* |/f/ |*feda* |as the "f" in _four_
 |*g* |/f/ |*goli* |as the "f" in _four_
 |*h* |/h/ |*hit* |as the "h" in _happy_; may be silent depending on the speaker and dialect
-|*j* |/dʒ/ |*joj* |as the "j" in _jump_
+|*j* |/ʤ/ |*joj* |as the "j" in _jump_
 |*k* |/k/ |*kalij* |as the "c" in _cut_
 |*l* |/l/ |*laiyad* |as the "l" in _left_
 |*m* |/m/ |*man* |as the "m" in _map_
@@ -680,36 +680,36 @@ NOTE: Some people may write *niam* instead of *nyam*, and *kiaan* for *kyaan*, *
 
 *chr*
 
-* *chrabl* /tʃɹabl̩/, _travel_
-* *chrai* /tʃɹaɪ/, _try_
-* *chrang* /tʃɹaŋ/, _strong_
-* *chrent* /tʃɹent/, _strength_
-* *chriet* /tʃɹɪɛt/, _straight_
-* *chrii* /tʃɹiː/, _tree, three_
-* *chriit* /tʃɹiːt/, _treat_
-* *chrik* /tʃɹik/, _trick_
-* *chrikifai* /tʃɹikifai/, _cunning_
-* *chrech* /tʃɹetʃ/, _stretch_
-* *chrecha* /tʃɹetʃa/, _stretcha_
-* *chrangga* /tʃɹaŋga/, _stronger_
+* *chrabl* /ʧɹabl̩/, _travel_
+* *chrai* /ʧɹaɪ/, _try_
+* *chrang* /ʧɹaŋ/, _strong_
+* *chrent* /ʧɹent/, _strength_
+* *chriet* /ʧɹɪɛt/, _straight_
+* *chrii* /ʧɹiː/, _tree, three_
+* *chriit* /ʧɹiːt/, _treat_
+* *chrik* /ʧɹik/, _trick_
+* *chrikifai* /ʧɹikifai/, _cunning_
+* *chrech* /ʧɹeʧ/, _stretch_
+* *chrecha* /ʧɹeʧa/, _stretcha_
+* *chrangga* /ʧɹaŋga/, _stronger_
 
 *jr*
 
-* *jraafut* /dʒɹaːfut/, _lame_
-* *jred* /dʒɹed/, _Rastafarian_
-* *jresbak* /dʒɹesbak/, _reverse_
-* *jresdong* /dʒɹesdoŋ/, _shift position_
-* *jriepop* /dʒɹɪɛpop/, _accost_
-* *jraadong* /dʒɹaːdoŋ/, _reduced_
-* *jraaz* /dʒɹaːz/, _drawers_
-* *jraa* /dʒɹaː/, _draw_
-* *jrap* /dʒɹap/, _drop_
-* *jringk* /dʒɹiŋk/, _drink_
-* *jrai* /dʒɹaɪ/, _dry_
-* *jres* /dʒɹes/, _dress_
-* *jrom* /dʒɹom/, _drum_
-* *brejrin* /bɹedʒɹin/, _friend_
-* *onjrid* /ondʒɹid/, _hundred_
+* *jraafut* /ʤɹaːfut/, _lame_
+* *jred* /ʤɹed/, _Rastafarian_
+* *jresbak* /ʤɹesbak/, _reverse_
+* *jresdong* /ʤɹesdoŋ/, _shift position_
+* *jriepop* /ʤɹɪɛpop/, _accost_
+* *jraadong* /ʤɹaːdoŋ/, _reduced_
+* *jraaz* /ʤɹaːz/, _drawers_
+* *jraa* /ʤɹaː/, _draw_
+* *jrap* /ʤɹap/, _drop_
+* *jringk* /ʤɹiŋk/, _drink_
+* *jrai* /ʤɹaɪ/, _dry_
+* *jres* /ʤɹes/, _dress_
+* *jrom* /ʤɹom/, _drum_
+* *brejrin* /bɹeʤɹin/, _friend_
+* *onjrid* /onʤɹid/, _hundred_
 
 *xk*
 
@@ -747,7 +747,7 @@ Syllabic *n* is pronounced /n̩/, and can occur following *b*, *d*, *s*, *t*, or
 * *haxesobl* /haksesobl̩/, _accessible_
 * *anmigl* /anmigl̩/, _palm_
 * *bringgl* /bɹiŋgl̩/, _agitated_
-* *iejobl* /ɪɛdʒobl̩/, _mature, as in person_
+* *iejobl* /ɪɛʤobl̩/, _mature, as in person_
 * *manazebl* /manazebl̩/, _polite_
 * *onggl* /oŋgl̩/, _only_
 * *sensobl* /sensobl̩/, _sensible_
@@ -755,11 +755,11 @@ Syllabic *n* is pronounced /n̩/, and can occur following *b*, *d*, *s*, *t*, or
 * *migl* /migl̩/, _middle_
 * *Mandivl* /mandivl̩/, _Mandeville_
 * *piipl* /piːpl̩/, _people_
-* *chobl* /tʃobl̩/, _trouble_
+* *chobl* /ʧobl̩/, _trouble_
 * *ombl* /ombl̩/, _humble_
 * *kianggl* /kjaŋgl̩/, _̩candle_
 * *rigl* /ɹigl̩/, _riddle_
-* *chrabl* /tʃɹabl̩/, _travel_
+* *chrabl* /ʧɹabl̩/, _travel_
 * *taikl* /taɪkl̩/, _title_
 * *haatikl* /haːtikl̩/, _article_
 * *likl* /likl̩/, _little_
@@ -787,11 +787,11 @@ See <<_consonants,Consonants>> for more details on the pronunciation of *h* and 
 Certain consonant combinations tend to be avoided at the beginning of a word, for example /sk/, /sp/ and /st/
 
 * *kuul* /kuːl/, _school_ (also *skuul*)
-* *krichoul* /kɹitʃoul/, _owl_
+* *krichoul* /kɹiʧoul/, _owl_
 * *kraani* /kɹaːni/, _skinny_
-* *chrang* /tʃɹaŋ/, _strong_
-* *chrent* /tʃɹent/, _strength_
-* *chriet* /tʃɹɪɛt/, _straight_
+* *chrang* /ʧɹaŋ/, _strong_
+* *chrent* /ʧɹent/, _strength_
+* *chriet* /ʧɹɪɛt/, _straight_
 * *tap* /tap/, _stop_
 * *plit* /plit/, _split_
 
@@ -888,7 +888,7 @@ Use the pattern *x y* to express a possessive relationship between two nouns, su
 
 ===== Personal Names
 
-Given names (also known as *Kristiyan niem*, _Christian names_) follow the same rules of phonology as other words (including loan words) in Jamaican. So _George_ becomes *Jaaj* (pronounced /dʒa:dʒ/), Mary becomes *Mieri* (pronounced /mɪɛɹi/), and so on.
+Given names (also known as *Kristiyan niem*, _Christian names_) follow the same rules of phonology as other words (including loan words) in Jamaican. So _George_ becomes *Jaaj* (pronounced /ʤa:ʤ/), Mary becomes *Mieri* (pronounced /mɪɛɹi/), and so on.
 
 It is important to note that in many social contexts, nicknames may be used in preference to given names (see <<nicknames,Nicknames>> and <<yard-names,Yard Names>> below).
 
@@ -899,7 +899,7 @@ Some examples of common female given names in Jamaica:
 * *Darati* /daɹati/, _Dorothy_
 * *Ieda* /ɪɛda/, _Ada_
 * *Iemi* /ɪɛmi/, _Amy_
-* *Jien* /dʒɪɛn/, _Jane_
+* *Jien* /ʤɪɛn/, _Jane_
 * *Kiet* /kɪɛt/, _Kate_
 * *Klier* /klɪɛɹ/, _Claire_
 * *Kyari* /kjaɹi/, _Carrie_
@@ -907,7 +907,7 @@ Some examples of common female given names in Jamaica:
 * *Mieri* /mɪɛɹi/, _Mary_
 * *Nansi* /nansi/, _Nancy_
 * *Puosha* /puɔʃa/, _Portia_
-* *Sanja* /sandʒa/, _Sandra_
+* *Sanja* /sanʤa/, _Sandra_
 * *Siera* /sɪɛra/, _Sarah_
 * *Silvia* /silvia/, _Sylvia_
 * *Yuuna* /yuːna/, _Una_
@@ -918,18 +918,18 @@ Some examples of common male given names in Jamaica:
 
 * *Aizak* /aɪzak/, _Isaac_
 * *Aligzanda* /aligzanda/, _Alexander_
-* *Anju* /andʒu/, _Andrew_
+* *Anju* /anʤu/, _Andrew_
 * *Bruus* /bɹuːs/, _Bruce_
-* *Chaali* /tʃaːli/, _Charlie_
+* *Chaali* /ʧaːli/, _Charlie_
 * *Danal* /danal/, _Donald_
 * *Derik* /deɹik/, _Derek_
 * *Dievid* /dɪɛvid/, _David_
 * *Edwad* /edwad/, _Edward_
 * *Eliat* /eliat/, _Eliot_
-* *Jaaj* /dʒaːdʒ/, _George_
-* *Jan* /dʒan/, _John_
-* *Jiemz* /dʒɪɛmz/, _James_
-* *Juo* /dʒuɔ/, _Joe_
+* *Jaaj* /ʤaːʤ/, _George_
+* *Jan* /ʤan/, _John_
+* *Jiemz* /ʤɪɛmz/, _James_
+* *Juo* /ʤuɔ/, _Joe_
 * *Kenet* /kenet/, _Kenneth_
 * *Klifod* /klifod/, _Clifford_
 * *Larans* /laɹans/, _Laurence_
@@ -942,7 +942,7 @@ Some examples of common male given names in Jamaica:
 * *Orbort* /oɹbort/, _Herbert_
 * *Owad* /owad/, _Howard_
 * *Paal* /paːl/, _Paul_
-* *Pachrik* /patʃɹik/, _Patrick_
+* *Pachrik* /paʧɹik/, _Patrick_
 * *Piita* /piːta/, _Peter_
 * *Saiman* /saɪman/, _Simon_
 * *Salaman* /salaman/, _Solomon_
