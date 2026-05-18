@@ -162,12 +162,12 @@ The short vowel *i* is pronounced /ɪ/, as the "i" in _thin_
 * *migl* /mɪgl/, _middle_
 * *bita* /bɪta/, _bitter_
 
-The short vowel *o* is pronounced /o/, as the "o" in _@_
+The short vowel *o* is pronounced /o/, as the "o" in _hot_
 
 * *kot* /kot/, _cut_
 * *ogli* /oglɪ/, _ugly_
 
-The short vowel *u* is pronounced /u/ (recognized as /ʊ/ by some authors), as the "u" in _@_
+The short vowel *u* is pronounced /u/ (recognized as /ʊ/ by some authors), as the "u" in _good_
 
 * *dukunu* /dukunu/, (a kind of pudding)
 * *kuk* /kuk/, _cook_
@@ -180,7 +180,7 @@ The long vowels are pronounced by doubling the length of the corresponding short
 * long vowels: *aa*, *ii*, *uu*
 
 ====== *aa*
-The long vowel *aa* is pronounced /a:/, as the _@_ in _@_
+The long vowel *aa* is pronounced /a:/, as the _a_ in _father_
 
 * *aad* /a:d/, _hard_
 * *aaf* /a:f/, _half_
@@ -199,7 +199,7 @@ The long vowel *aa* is pronounced /a:/, as the _@_ in _@_
 * *waata* /wa:ta/, _water_
 
 ====== *ii*
-The long vowel *ii* is pronounced /i:/, as the "@" in _@_
+The long vowel *ii* is pronounced /i:/, as the "ee" in _beet_
 
 * *iit* /i:t/, _eat_
 * *tii* /ti:/, _tea_
@@ -210,7 +210,7 @@ The long vowel *ii* is pronounced /i:/, as the "@" in _@_
 * *paliis* /pali:s/, _police_
 
 ====== *uu*
-The long vowel *uu* is pronounced /u:/, as the "@" in _@_
+The long vowel *uu* is pronounced /u:/, as the "oo" in _moon_
 
 * *buut* /bu:t/, _booth / boot_
 * *shuut* /ʃu:t/, _shoot_
@@ -264,7 +264,7 @@ The diphthong *ai* is pronounced /aɪ/, as the "igh" in _sigh_ or the "y" in _tr
 
 ===== *ie*
 
-The diphthong *ie* is pronounced /ɪɛ/, as the "@" in _@_ or the "@" in _@_
+The diphthong *ie* is pronounced /ɪɛ/, as the "ye" in _yes_
 
 * *kiek* /kɪɛk/, _cake_
 * *biek* /bɪɛk/, _bake_
@@ -318,7 +318,7 @@ NOTE: This diphthong is sometimes written as *ia* with the corresponding pronunc
 
 ===== *uo*
 
-The diphthong *uo* is pronounced /uɔ/, as the "@" in _@_ or the "@" in _@_
+The diphthong *uo* is pronounced /uɔ/, as the "wa" in _want_
 
 * *gruo* /gɹuɔ/, _grow_
 * *uol* /uɔl/, _hole / whole / old_
@@ -373,7 +373,7 @@ This applies to derivative terms as well
 
 ===== *ou*
 
-The diphthong *ou* is pronounced /ɔu/, as the "@" in _@_ or the "@" in _@_
+The diphthong *ou* is pronounced /ɔu/, as the "oa" in _boat_ or the "o" in _hole_
 
 * *kou* /kɔu/, _cow_
 * *toun* /tɔun/, _town_
