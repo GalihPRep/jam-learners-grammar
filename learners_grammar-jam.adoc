@@ -180,60 +180,60 @@ The long vowels are pronounced by doubling the length of the corresponding short
 * long vowels: *aa*, *ii*, *uu*
 
 ====== *aa*
-The long vowel *aa* is pronounced /a:/, as the _a_ in _father_
+The long vowel *aa* is pronounced /aː/, as the _a_ in _father_
 
-* *aad* /a:d/, _hard_
-* *aaf* /a:f/, _half_
-* *aaks* /a:ks/, _ask_
-* *baal* /ba:l/, _ball_
-* *baat* /ba:t/, _bath_
-* *baaba* /ba:ba/, _barber_
-* *saaf* /sa:f/, _soft_
-* *Naat Amerika* /na:t ameɹɪka/, _North America_
-* *kwaat* /kwa:t/, _quart_
-* *yaad* /ja:d/, _yard_
-* *aad iez* /a:d iez/, _disobedient_
-* *plaan* /pla:n/, _plant_
-* *kaan* /ka:n/, _corn_
-* *taak* /ta:k/, _talk_
-* *waata* /wa:ta/, _water_
+* *aad* /aːd/, _hard_
+* *aaf* /aːf/, _half_
+* *aaks* /aːks/, _ask_
+* *baal* /baːl/, _ball_
+* *baat* /baːt/, _bath_
+* *baaba* /baːba/, _barber_
+* *saaf* /saːf/, _soft_
+* *Naat Amerika* /naːt ameɹɪka/, _North America_
+* *kwaat* /kwaːt/, _quart_
+* *yaad* /jaːd/, _yard_
+* *aad iez* /aːd iez/, _disobedient_
+* *plaan* /plaːn/, _plant_
+* *kaan* /kaːn/, _corn_
+* *taak* /taːk/, _talk_
+* *waata* /waːta/, _water_
 
 ====== *ii*
-The long vowel *ii* is pronounced /i:/, as the "ee" in _beet_
+The long vowel *ii* is pronounced /iː/, as the "ee" in _beet_
 
-* *iit* /i:t/, _eat_
-* *tii* /ti:/, _tea_
-* *miin* /mi:n/, _mean_
-* *siin* /si:n/, _agreed, OK_ (affirmative particle)
-* *tiich* /ti:tʃ/, _teach_
-* *biini* /bi:ni/, _tiny_
-* *paliis* /pali:s/, _police_
+* *iit* /iːt/, _eat_
+* *tii* /tiː/, _tea_
+* *miin* /miːn/, _mean_
+* *siin* /siːn/, _agreed, OK_ (affirmative particle)
+* *tiich* /tiːtʃ/, _teach_
+* *biini* /biːni/, _tiny_
+* *paliis* /paliːs/, _police_
 
 ====== *uu*
-The long vowel *uu* is pronounced /u:/, as the "oo" in _moon_
+The long vowel *uu* is pronounced /uː/, as the "oo" in _moon_
 
-* *buut* /bu:t/, _booth / boot_
-* *shuut* /ʃu:t/, _shoot_
-* *byuuti* /bju:tɪ/, _beauty_
-* *skuul* /sku:l/, _school_
-* *dailuut* /daɪlu:t/, _dilute_
-* *uu* /u:/, _who_
-* *mangguus* /maŋgu:s/, _mongoose_
-* *Yuukrien* /ju:kɹɪɛn/, _Ukraine_
-* *Kyuuba* /kju:ba/, _Cuba_
-* *Yuurop* /ju:ɹop/, _Europe_
-* *yuut* /ju:t/, _youngster_
-* *myuuzik* /mju:zɪk/, _music_
-* *kuul* /ku:l/, _cool_
-* *pyuuriti* /pju:ɹɪtɪ/, _purity_
-* *fuud* /fu:d/, _food_
-* *fyuu* /fju:/, _few_
-* *ruut* /ɹu:t/, _root_
-* *hatityuud* /hatɪtju:d/, _attitude_
-* *nyuu* /nju:/, _new_
-* *chruu* /tʃɹu:/, _through_
-* *chuun* /tʃu:n/, _tune_
-* *chuut* /tʃu:t/, _truth_
+* *buut* /buːt/, _booth / boot_
+* *shuut* /ʃuːt/, _shoot_
+* *byuuti* /bjuːtɪ/, _beauty_
+* *skuul* /skuːl/, _school_
+* *dailuut* /daɪluːt/, _dilute_
+* *uu* /uː/, _who_
+* *mangguus* /maŋguːs/, _mongoose_
+* *Yuukrien* /juːkɹɪɛn/, _Ukraine_
+* *Kyuuba* /kjuːba/, _Cuba_
+* *Yuurop* /juːɹop/, _Europe_
+* *yuut* /juːt/, _youngster_
+* *myuuzik* /mjuːzɪk/, _music_
+* *kuul* /kuːl/, _cool_
+* *pyuuriti* /pjuːɹɪtɪ/, _purity_
+* *fuud* /fuːd/, _food_
+* *fyuu* /fjuː/, _few_
+* *ruut* /ɹuːt/, _root_
+* *hatityuud* /hatɪtjuːd/, _attitude_
+* *nyuu* /njuː/, _new_
+* *chruu* /tʃɹuː/, _through_
+* *chuun* /tʃuːn/, _tune_
+* *chuut* /tʃuːt/, _truth_
 
 ==== Diphthongs
 
@@ -324,7 +324,7 @@ The diphthong *uo* is pronounced /uɔ/, as the "wa" in _want_
 * *uol* /uɔl/, _hole / whole / old_
 * *kuoknat* /kuɔknat/, _coconut_
 * *suos* /suɔs/, _source_
-* *huoliip* /huɔli:p/, _many / a lot_
+* *huoliip* /huɔliːp/, _many / a lot_
 * *luokal* /luɔkal/, _local_
 * *guol* /guɔl/, _goal / gold_
 * *guot* /guɔt/, _goat_
@@ -393,8 +393,8 @@ As seen above, the letters *­hn* are added after a vowel to indicate that it is
 
 Long vowels can also be nasalized with *hn*
 
-* *kyaahn* /kjã:/, _can't_
-* *iihn* /ĩ:/, _isn't it?_
+* *kyaahn* /kjãː/, _can't_
+* *iihn* /ĩː/, _isn't it?_
 
 The nasal vowel *ahn* is pronounced /ã/, as in the "anc" in French _blanc_
 
@@ -403,7 +403,7 @@ The nasal vowel *ahn* is pronounced /ã/, as in the "anc" in French _blanc_
 * *ahn* /ã/, _and_
 * *kiahn* /kjã/, _can_
 * *wahn* /wã/, _want_
-* *kyaahn* /kjã:/, _cannot_
+* *kyaahn* /kjãː/, _cannot_
 
 The nasal vowel *ehn* is pronounced /ɛ̃/, as the "in" in French _vin_
 
@@ -435,9 +435,9 @@ The nasal vowel *uhn* is pronounced /ũ/, as the "un" in French _un_
 |*i* |/ɪ/ |short |*migl* |as the "i" in _thin_
 |*o* |/o/ |short |*kot* |
 |*u* |/u/ |short |*kuk* |as the "oo" in _cool_
-|*aa* |/a:/ |long |*baal* |
-|*ii* |/i:/ |long |*siin* |
-|*uu* |/u:/ |long |*yuut* |
+|*aa* |/aː/ |long |*baal* |
+|*ii* |/iː/ |long |*siin* |
+|*uu* |/uː/ |long |*yuut* |
 |*ahn* |/ã/ |short, nasal |*pahn* |as in the "anc" in French _blanc_
 |*ehn* |/ɛ̃/ |short, nasal |*wehn* |as the "in" in French _vin_
 |*ihn* |/ĩ/ |short, nasal |*ihn* |
@@ -460,14 +460,14 @@ The sound *ya* /ja/ is equivalent to, and sometimes written as, *ia*:
 
 ===== *yaa* (*iaa*)
 
-Likewise, the lengthened version *yaa* /ja:/ is equivalent to, and sometimes written as, *iaa*:
+Likewise, the lengthened version *yaa* /jaː/ is equivalent to, and sometimes written as, *iaa*:
 
-* *kyaahn* (*kiaahn*) /kjã:/, _cannot, can't_
-* *gyaadn* (*giaadn*) /gja:dn̩/, _garden_
-* *kyaar* (*kiaar*) /kja:r/, _car_
-* *gyaad* (*giaad*) /gja:d/, _guard_
-* *kyaahn* or *kyaan* (*kiaahn* or *kiaan*) /kjã:/ or /kja:n/, _cannot, can't_
-* *pyaahn-pyaahn* (*piaahn-piaahn*) /pjã:pjã:/, _weak_
+* *kyaahn* (*kiaahn*) /kjãː/, _cannot, can't_
+* *gyaadn* (*giaadn*) /gjaːdn̩/, _garden_
+* *kyaar* (*kiaar*) /kjaːr/, _car_
+* *gyaad* (*giaad*) /gjaːd/, _guard_
+* *kyaahn* or *kyaan* (*kiaahn* or *kiaan*) /kjãː/ or /kjaːn/, _cannot, can't_
+* *pyaahn-pyaahn* (*piaahn-piaahn*) /pjãːpjãː/, _weak_
 
 
 === Consonants
@@ -486,21 +486,21 @@ The consonant *b* is pronounced /b/, as the "b" in _book_
 The consonant *d* is pronounced /d/, as the "d" in _door_
 
 * *dopi* /dopɪ/, _ghost_
-* *daag* /da:g/, _dog_
+* *daag* /daːg/, _dog_
 
 The consonant *ch* is pronounced /tʃ/, as the "ch" in _chair_
 
 * *choch* /tʃotʃ/, _church_
-* *chruu* /tʃɹu:/, _through_
-* *chuun* /tʃu:n/, _tune_
-* *chuut* /tʃu:t/, _truth_
+* *chruu* /tʃɹuː/, _through_
+* *chuun* /tʃuːn/, _tune_
+* *chuut* /tʃuːt/, _truth_
 * *chrikifai* /tʃɹikifai/, _cunning_
 
 The consonant *f* is pronounced /f/, as the "f" in _four_
 
 * *feda* /feda/, _feather_
-* *fuud* /fu:d/, _food_
-* *fyuu* /fju:/, _few_
+* *fuud* /fuːd/, _food_
+* *fyuu* /fjuː/, _few_
 * *falara* /falaɹa/, _follower_
 
 The consonant *g* is pronounced /f/, as the "f" in _four_
@@ -524,8 +524,8 @@ The consonant *k* is pronounced /k/, as the "c" in _cut_
 
 * *kait* /kaɪt/, _kite_
 * *kalij* /kalɪdʒ/, _college_
-* *kisaada* /kisa:da/, _cassava_
-* *klaat* /kla:t/, _cloth_
+* *kisaada* /kisaːda/, _cassava_
+* *klaat* /klaːt/, _cloth_
 * *kolcha* /koltʃa/, _culture_
 * *konchri* /kontʃɹi/, _country_
 * *kom* /kom/, _come_
@@ -535,7 +535,7 @@ The consonant *l* is pronounced /l/, as the "l" in _left_
 
 * *laiyad* /laɪjad/, _liar_
 * *laiyan* /laɪjan/, _lion_
-* *liin* /li:n/, _lean_
+* *liin* /liːn/, _lean_
 
 The consonant *m* is pronounced /m/, as the "m" in _map_
 
@@ -556,7 +556,7 @@ The consonant *ng* is pronounced /ŋ/, as the "ng" in _wing_
 The consonant *p* is pronounced /p/, as the "p" in _pear_
 
 * *picha* /pitʃa/, _picture_
-* *piil* /pi:l/, _peel_
+* *piil* /piːl/, _peel_
 * *pudn* /pudn/, _pudding_
 * *pus* /pus/, _cat_
 
@@ -577,17 +577,17 @@ The consonant *sh* is pronounced /ʃ/, as the "sh" in _shoe_
 * *shap* /ʃap/, _shop_
 * *shout* /ʃout/, _shout_
 * *sheda* /ʃeda/, _shadow_
-* *shaat* /ʃa:t/, _short_
+* *shaat* /ʃaːt/, _short_
 * *shuga* /ʃuga/, _sugar_
 * *shuolda* /ʃuolda/, _shoulder_
-* *shaachij* /ʃa:tʃɪdʒ/, _shortage_
+* *shaachij* /ʃaːtʃɪdʒ/, _shortage_
 * *disepshos* /dɪsepʃos/, _deceitful_
 * *sofarieshan* /sofarɪɛʃan/, _suffering_
 
 The consonant *t* is pronounced /t/, as the "t" in _tin_
 
 * *tiks* /tɪks/, _a tick_
-* *tuu* /tu:/, _two; too_
+* *tuu* /tuː/, _two; too_
 * *toti* /totɪ/, _thirty_
 
 The consonant *v* is pronounced /v/, as the "v" in _very_
@@ -614,18 +614,18 @@ The consonant *y* is pronounced /j/, as the "y" in _you_
 * *yampi* /jampi/, _yampi_ (a small variety of yam)
 * *yong* /joŋ/, _young_
 * *yai* /jaɪ/, _eye_
-* *yaad* /ja:d/, _yard_
+* *yaad* /jaːd/, _yard_
 
 The consonant *z* is pronounced /z/, as the "z" in _zoo_
 
 * *zela* /zela/, (a wake for the dead)
-* *zuu* /zu:/, _zoo_
+* *zuu* /zuː/, _zoo_
 
 The consonant *zh* is only used in loanwords; it is pronounced /ʒ/, as the "s" in _illusion_
 
 * *plezha* /pleʒa/, _pleasure_
 * *vorzhan* /voɹʒan/, _version_
-* *chrezha* /chɹeʒa/, _treasure_
+* *chrezha* /ʧɹeʒa/, _treasure_
 * *divizhan* /diviʒan/, _division_
 
 NOTE: In the acrolect, *zh* may be replaced by *j* /dʒ/, for example: *pleja*, *vorjan*, *chreja*, *divijan*, etc.
@@ -667,7 +667,7 @@ In some loanwords from West African languages, *ny* is pronounced (/ɲ/) as in t
 
 * *nyam* /ɲam/, _eat_
 
-The combination *ky* is pronounced /kj/, as in @ (this sound is written with the symbol /c/ in IPA, but for clarity we have written it phonemically as /kj/):
+The combination *ky* is pronounced /kj/, as in the "c" in _cute_ (this sound is written with the symbol /c/ in IPA, but for clarity we have written it phonemically as /kj/):
 
 * *kyaahn* /kjãː/, _can't; cannot_
 
@@ -685,8 +685,8 @@ NOTE: Some people may write *niam* instead of *nyam*, and *kiaan* for *kyaan*, *
 * *chrang* /tʃɹaŋ/, _strong_
 * *chrent* /tʃɹent/, _strength_
 * *chriet* /tʃɹɪɛt/, _straight_
-* *chrii* /tʃɹi:/, _tree, three_
-* *chriit* /tʃɹi:t/, _treat_
+* *chrii* /tʃɹiː/, _tree, three_
+* *chriit* /tʃɹiːt/, _treat_
 * *chrik* /tʃɹik/, _trick_
 * *chrikifai* /tʃɹikifai/, _cunning_
 * *chrech* /tʃɹetʃ/, _stretch_
@@ -695,14 +695,14 @@ NOTE: Some people may write *niam* instead of *nyam*, and *kiaan* for *kyaan*, *
 
 *jr*
 
-* *jraafut* /dʒɹa:fut/, _lame_
+* *jraafut* /dʒɹaːfut/, _lame_
 * *jred* /dʒɹed/, _Rastafarian_
 * *jresbak* /dʒɹesbak/, _reverse_
 * *jresdong* /dʒɹesdoŋ/, _shift position_
 * *jriepop* /dʒɹɪɛpop/, _accost_
-* *jraadong* /dʒɹa:doŋ/, _reduced_
-* *jraaz* /dʒɹa:z/, _drawers_
-* *jraa* /dʒɹa:/, _draw_
+* *jraadong* /dʒɹaːdoŋ/, _reduced_
+* *jraaz* /dʒɹaːz/, _drawers_
+* *jraa* /dʒɹaː/, _draw_
 * *jrap* /dʒɹap/, _drop_
 * *jringk* /dʒɹiŋk/, _drink_
 * *jrai* /dʒɹaɪ/, _dry_
@@ -725,8 +725,8 @@ Syllabic *n* is pronounced /n̩/, and can occur following *b*, *d*, *s*, *t*, or
 * *sebn* /sebn̩/, _seven_
 * *kudn* /kudn̩/, _could not_
 * *ebn* /ebn̩/, _heaven_
-* *gyaadn* /gja:dn̩/, _garden_
-* *iibn* /i:bn̩/, _even_
+* *gyaadn* /gjaːdn̩/, _garden_
+* *iibn* /iːbn̩/, _even_
 * *sitn* /sitn̩/, _something_
 * *wapn-bapn* /wapn̩bapn̩/, _poorly constructed, thrown together_
 * *touzn* /touzn̩/, _thousand_
@@ -734,13 +734,13 @@ Syllabic *n* is pronounced /n̩/, and can occur following *b*, *d*, *s*, *t*, or
 * *kriebn* /kɹɪɛbn̩/, _gluttonous_
 * *pudn* /pudn̩/, _pudding_
 * *fraitn* /fɹaɪtn̩/, _frighten_
-* *paadn* /pa:dn̩/, _pardon_
+* *paadn* /paːdn̩/, _pardon_
 * *katn* /katn̩/, _cotton_
-* *Swiidn* /swi:dn̩/, _Sweden_
-* *riizn* /ɹi:zn̩/, _reason_
+* *Swiidn* /swiːdn̩/, _Sweden_
+* *riizn* /ɹiːzn̩/, _reason_
 * *lisn* /lisn̩/, _listen_
-* *paasn* /pa:sn̩/, _preacher_
-* *kozn* /ko:zn̩/, _cousin_
+* *paasn* /paːsn̩/, _preacher_
+* *kozn* /koːzn̩/, _cousin_
 
 ===== Syllabic *l*
 
@@ -754,14 +754,14 @@ Syllabic *n* is pronounced /n̩/, and can occur following *b*, *d*, *s*, *t*, or
 * *sipl* /sipl̩/, _slippery_
 * *migl* /migl̩/, _middle_
 * *Mandivl* /mandivl̩/, _Mandeville_
-* *piipl* /pi:pl̩/, _people_
+* *piipl* /piːpl̩/, _people_
 * *chobl* /tʃobl̩/, _trouble_
 * *ombl* /ombl̩/, _humble_
 * *kianggl* /kjaŋgl̩/, _̩candle_
 * *rigl* /ɹigl̩/, _riddle_
 * *chrabl* /tʃɹabl̩/, _travel_
 * *taikl* /taɪkl̩/, _title_
-* *haatikl* /ha:tikl̩/, _article_
+* *haatikl* /haːtikl̩/, _article_
 * *likl* /likl̩/, _little_
 * *torkl* /toɹkl̩/, _turtle_
 
@@ -770,7 +770,7 @@ Syllabic *n* is pronounced /n̩/, and can occur following *b*, *d*, *s*, *t*, or
 * *lebm* /lebm̩/, _eleven_
 * *apm* /apm̩/, _happen_
 * *sopm* /sopm̩/, _something_
-* *waapm* /wa:pm̩/, _what's happening / what's up (greeting)_
+* *waapm* /waːpm̩/, _what's happening / what's up (greeting)_
 * *uopm* /uɔpm̩/, _open_
 
 ==== Silent Letters
@@ -786,9 +786,9 @@ See <<_consonants,Consonants>> for more details on the pronunciation of *h* and 
 
 Certain consonant combinations tend to be avoided at the beginning of a word, for example /sk/, /sp/ and /st/
 
-* *kuul* /ku:l/, _school_ (also *skuul*)
+* *kuul* /kuːl/, _school_ (also *skuul*)
 * *krichoul* /kɹitʃoul/, _owl_
-* *kraani* /kɹa:ni/, _skinny_
+* *kraani* /kɹaːni/, _skinny_
 * *chrang* /tʃɹaŋ/, _strong_
 * *chrent* /tʃɹent/, _strength_
 * *chriet* /tʃɹɪɛt/, _straight_
@@ -903,7 +903,7 @@ Some examples of common female given names in Jamaica:
 * *Kiet* /kɪɛt/, _Kate_
 * *Klier* /klɪɛɹ/, _Claire_
 * *Kyari* /kjaɹi/, _Carrie_
-* *Luwiiz* /luwi:z/, _Louise_
+* *Luwiiz* /luwiːz/, _Louise_
 * *Mieri* /mɪɛɹi/, _Mary_
 * *Nansi* /nansi/, _Nancy_
 * *Puosha* /puɔʃa/, _Portia_
